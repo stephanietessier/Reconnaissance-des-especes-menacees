@@ -1,0 +1,961 @@
+species,region,habitat,activity,visual_pattern,threat_level,body_length_cm,weight_kg,altitude_m,temperature_c,observation_quality
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,163.12,52.32,3671.29,22.14,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,74.41,66.0,78.23,25.48,faible
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,173.12,92.81,3886.56,18.09,moyenne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,125.61,49.01,796.96,24.12,faible
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,133.89,31.79,1432.6,11.17,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,170.31,135.51,3582.77,14.9,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,249.37,130.27,291.93,27.6,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,151.46,73.11,3981.73,20.45,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,67.99,4.19,2397.88,9.51,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,118.6,53.7,749.96,12.85,faible
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,130.04,50.11,0.0,30.23,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,58.45,7.48,3482.38,18.61,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,259.4,133.87,95.89,7.61,faible
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,138.15,46.83,121.42,29.84,moyenne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,126.5,38.98,124.27,17.41,moyenne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,143.28,53.94,0.0,11.53,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,56.37,10.89,2637.51,23.91,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,96.67,48.64,0.0,26.79,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,179.2,50.99,4279.71,27.4,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,116.17,68.95,1378.79,14.11,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,129.99,55.09,1352.3,8.45,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,237.57,93.34,159.67,14.32,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,200.36,47.56,3615.49,24.36,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,162.66,78.83,2447.05,17.91,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,200.95,41.17,3708.1,15.17,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,59.19,6.35,3751.54,8.56,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,263.47,108.72,1093.5,10.91,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,131.94,44.57,0.0,20.41,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,148.11,96.4,685.17,12.7,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,60.16,5.12,2885.37,29.71,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,334.7,1986.77,0.0,11.9,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,50.57,4.67,2133.9,26.56,faible
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,335.27,1793.22,323.74,22.17,faible
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,244.84,136.31,147.9,30.47,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,190.98,31.08,5106.2,23.28,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,339.06,1036.57,412.89,6.99,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,156.12,124.68,4151.16,25.09,faible
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,51.82,3.12,1855.88,18.75,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,234.88,118.34,800.22,22.94,faible
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,122.12,68.17,1482.26,22.09,moyenne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,131.37,50.54,27.01,29.85,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,62.38,7.96,2952.2,20.53,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,325.7,993.23,480.61,10.91,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,320.72,1092.78,197.27,18.36,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,233.94,129.3,387.93,17.51,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,151.02,55.45,1490.03,25.44,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,158.67,78.5,2441.41,13.35,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,251.85,73.34,1072.62,9.01,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,171.5,49.36,4623.94,9.48,moyenne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,334.65,1342.26,579.77,22.32,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,132.93,80.86,543.68,8.35,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,130.76,48.34,16.21,32.64,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,147.11,165.65,3175.25,33.11,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,171.54,165.81,2731.27,13.62,moyenne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,80.8,82.63,117.95,21.04,moyenne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,123.73,53.85,28.33,12.42,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,255.91,101.34,664.51,23.93,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,301.91,2101.1,110.13,29.77,faible
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,301.61,1991.79,154.23,31.98,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,63.3,0.93,3468.51,33.58,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,171.51,71.84,2688.86,26.67,faible
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,223.49,86.97,383.81,6.59,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,184.46,54.26,4016.99,7.46,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,229.08,140.34,1117.53,29.07,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,175.74,168.6,4308.5,7.7,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,89.88,61.62,0.0,6.37,faible
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,49.97,3.72,2344.05,5.43,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,141.3,51.74,508.62,6.26,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,137.86,42.01,83.38,13.6,moyenne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,121.49,31.58,57.23,11.24,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,158.23,33.94,5337.29,23.82,moyenne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,318.33,1045.07,308.66,12.49,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,310.97,2181.74,242.26,11.37,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,151.3,108.42,3753.64,27.41,moyenne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,306.33,2132.04,144.96,9.33,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,102.32,52.83,18.34,21.26,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,64.29,5.19,3156.65,23.93,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,332.1,1380.86,365.5,9.66,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,218.75,107.45,684.88,27.82,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,142.73,55.54,1509.74,20.58,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,145.11,124.55,4033.07,22.76,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,136.28,45.73,0.0,8.6,moyenne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,119.72,41.7,0.0,11.38,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,139.03,130.67,2996.01,5.47,moyenne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,141.11,47.08,22.38,24.75,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,304.46,1610.39,385.16,31.66,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,205.58,47.54,3820.55,27.77,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,306.28,1943.59,557.52,14.38,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,64.45,4.31,2335.44,18.18,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,327.83,1873.45,746.92,13.14,moyenne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,83.41,45.67,0.0,24.11,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,220.8,45.77,3596.38,12.46,faible
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,132.76,54.72,0.0,19.3,faible
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,185.8,42.53,4066.96,19.08,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,154.31,119.6,3895.87,7.28,moyenne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,131.14,48.45,0.0,17.01,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,184.34,34.39,4189.27,5.11,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,68.55,5.51,2208.75,31.9,moyenne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,139.53,32.59,0.0,27.13,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,51.59,7.91,2175.7,24.08,moyenne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,139.08,45.29,87.49,11.32,faible
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,230.76,127.49,1107.14,24.65,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,131.59,85.18,779.85,18.0,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,174.19,118.78,4375.43,7.69,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,151.34,33.28,2.03,25.15,moyenne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,125.53,45.37,0.0,25.7,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,158.76,155.52,3983.52,17.6,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,295.53,1882.57,274.01,9.88,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,160.83,126.79,2403.02,15.84,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,175.03,81.95,3988.21,16.8,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,160.59,140.08,3022.94,11.07,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,166.21,98.9,2358.71,23.5,moyenne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,322.35,1548.21,444.81,31.41,moyenne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,322.29,1822.9,328.52,27.05,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,152.49,172.6,3351.82,5.59,moyenne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,327.43,1245.92,364.14,21.08,moyenne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,327.44,1975.02,240.06,10.21,moyenne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,135.42,39.8,26.09,13.16,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,125.48,87.8,877.7,24.92,faible
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,167.01,50.45,4176.42,30.74,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,146.48,46.63,81.29,27.18,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,140.55,43.79,622.44,21.38,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,62.84,5.24,3284.89,27.84,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,138.81,71.89,85.35,6.68,faible
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,143.3,88.14,843.48,13.35,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,85.83,50.8,0.0,17.05,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,221.91,47.49,3259.76,9.54,faible
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,63.18,5.46,3898.48,29.33,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,136.86,44.99,1350.45,11.64,moyenne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,85.81,62.65,0.0,14.33,faible
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,125.92,32.91,0.0,33.46,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,150.65,29.6,0.0,31.66,moyenne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,122.65,90.53,1246.29,5.61,moyenne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,96.9,60.44,0.0,22.29,moyenne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,111.79,98.49,958.46,25.96,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,163.41,161.38,3354.67,9.35,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,54.96,5.69,2220.53,26.85,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,62.44,66.62,72.81,16.79,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,192.85,26.47,3484.41,20.35,faible
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,160.76,108.48,3865.73,20.07,moyenne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,77.12,64.71,99.15,29.05,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,143.41,50.6,98.0,27.85,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,233.08,84.6,203.76,11.84,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,75.99,78.3,41.69,9.29,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,119.0,56.98,603.69,23.63,moyenne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,151.71,36.32,70.97,28.97,faible
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,76.6,79.94,0.0,31.3,moyenne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,338.01,1865.43,586.9,21.33,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,223.71,138.08,290.28,22.97,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,135.93,43.03,19.61,7.06,moyenne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,72.63,43.19,0.0,16.22,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,116.19,72.85,856.18,10.04,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,344.34,1547.97,18.7,30.5,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,341.83,951.3,458.33,7.49,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,141.32,43.6,31.01,9.53,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,138.98,46.98,0.0,15.03,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,119.34,70.64,1151.82,23.95,moyenne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,134.98,46.76,0.0,22.11,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,139.9,58.25,1351.49,27.82,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,44.0,1.13,3171.77,27.44,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,146.17,83.82,580.82,33.93,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,132.98,65.14,829.31,5.43,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,128.32,38.72,0.0,22.9,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,66.61,50.52,0.0,5.88,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,318.43,942.14,350.29,14.19,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,139.57,55.33,0.0,18.75,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,69.93,67.72,112.45,29.92,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,63.2,2.63,2661.21,5.31,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,224.14,99.37,934.98,17.08,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,226.87,138.02,388.98,12.34,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,77.63,52.5,0.0,33.98,faible
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,338.56,1709.15,359.18,15.82,moyenne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,334.98,976.71,95.6,23.02,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,171.03,166.15,3033.21,20.58,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,166.9,113.34,2609.09,15.99,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,232.01,118.6,257.31,32.86,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,168.36,41.23,3864.22,18.49,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,174.23,102.92,3126.17,10.51,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,55.99,5.26,3405.83,33.91,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,341.06,994.26,166.7,22.82,faible
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,237.43,116.35,0.0,25.65,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,133.68,29.99,0.0,24.01,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,175.28,31.38,5014.23,6.36,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,129.45,90.35,809.31,18.18,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,142.38,41.21,142.79,29.03,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,146.26,92.78,3435.92,23.16,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,129.29,62.8,444.2,20.66,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,90.37,62.38,9.01,26.02,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,318.26,1500.41,0.0,10.92,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,51.36,3.69,1955.16,24.74,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,67.59,1.75,3828.86,6.93,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,321.5,1397.78,0.0,28.24,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,155.63,172.05,3684.97,26.93,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,99.52,73.57,110.47,7.27,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,162.54,108.24,2536.12,9.35,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,138.17,34.9,0.0,13.94,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,74.3,52.18,0.0,14.48,faible
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,62.06,5.76,2235.32,16.43,faible
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,71.62,8.72,2971.09,31.82,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,187.78,29.09,4358.8,33.2,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,156.85,147.32,2879.18,21.59,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,50.86,10.34,2425.01,8.97,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,132.64,36.4,0.0,29.7,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,147.93,134.85,2984.27,19.78,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,174.45,167.42,3139.38,26.59,moyenne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,65.08,39.46,0.0,15.59,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,123.08,47.13,0.0,28.57,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,83.61,59.68,0.0,12.42,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,57.26,6.21,3413.32,33.15,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,66.8,5.19,1811.12,13.55,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,175.36,140.42,2978.77,6.32,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,102.66,55.37,90.64,9.45,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,138.81,142.34,2509.69,26.86,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,253.03,131.58,933.97,26.73,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,60.92,6.79,2669.95,24.79,faible
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,64.65,4.16,2459.96,33.43,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,301.5,2175.52,355.47,22.34,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,189.01,46.08,3666.12,31.39,moyenne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,303.85,1230.9,7.51,29.9,moyenne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,116.87,71.22,1113.9,31.87,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,74.24,7.96,3593.67,11.27,moyenne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,316.29,1533.7,680.44,19.15,faible
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,232.85,94.2,1058.42,12.71,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,166.69,124.25,3001.17,33.62,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,335.12,1308.76,418.16,27.94,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,109.16,34.83,252.32,30.52,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,126.61,38.63,115.63,31.25,moyenne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,93.18,71.87,0.0,31.91,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,171.56,35.78,3687.23,21.76,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,54.23,4.1,3126.84,19.68,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,53.69,1.33,3292.99,17.19,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,63.63,2.33,3428.15,9.68,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,74.76,64.48,0.0,7.83,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,153.44,81.43,4300.57,21.17,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,123.94,38.97,0.0,30.74,moyenne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,146.63,45.46,71.57,7.54,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,143.91,51.77,46.23,30.65,moyenne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,54.7,76.71,0.0,17.17,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,53.62,7.0,3496.9,19.23,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,164.39,162.2,3483.99,24.71,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,165.0,127.24,2304.96,8.14,faible
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,60.23,6.77,1981.79,28.11,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,46.93,2.91,3435.34,7.66,moyenne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,151.71,52.56,0.0,9.13,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,156.32,120.55,3326.49,28.72,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,221.65,38.02,3825.35,25.87,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,203.58,40.79,3212.27,19.33,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,258.96,100.9,708.63,14.99,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,72.7,66.47,0.0,13.69,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,65.45,4.74,2389.42,10.44,faible
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,183.56,176.5,3531.17,8.11,moyenne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,119.36,91.08,289.96,17.76,moyenne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,142.77,30.97,32.48,10.26,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,177.21,125.49,2710.2,19.46,faible
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,144.11,68.34,680.77,9.87,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,227.53,121.44,548.35,22.7,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,128.38,93.89,1034.67,20.5,faible
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,266.26,97.68,664.03,7.72,moyenne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,317.05,1771.56,252.18,6.87,moyenne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,307.43,1843.51,584.14,10.75,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,171.74,44.32,4873.82,15.13,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,244.59,134.36,298.3,7.76,faible
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,205.97,45.45,3157.4,21.8,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,142.42,95.45,4181.35,11.81,faible
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,133.5,60.32,1476.65,15.76,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,85.07,48.62,121.42,16.06,faible
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,137.69,74.39,1168.96,10.25,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,151.81,154.28,4091.69,30.57,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,68.32,43.58,70.68,21.31,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,138.79,89.62,995.27,30.75,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,150.92,164.32,3411.22,26.44,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,58.78,7.61,3016.73,23.41,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,218.48,78.0,252.36,26.87,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,131.48,39.06,0.0,13.56,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,331.79,1261.92,23.41,9.93,faible
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,325.94,1413.08,425.45,29.89,faible
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,94.4,71.08,36.34,33.88,faible
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,198.71,25.76,5160.73,32.51,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,121.2,39.42,0.0,22.13,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,171.5,26.01,4938.47,18.34,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,138.08,46.55,42.84,20.31,moyenne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,131.94,55.57,668.01,21.5,moyenne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,309.48,1550.68,316.79,14.45,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,134.15,36.09,0.0,24.4,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,201.45,41.69,5213.83,19.35,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,302.35,1771.17,203.26,21.02,faible
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,89.77,67.02,0.0,14.39,faible
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,203.5,37.02,3961.06,15.96,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,236.07,122.02,672.13,32.29,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,175.29,137.76,3986.73,29.25,faible
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,311.5,1213.55,391.76,25.99,faible
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,256.15,126.03,1186.78,13.74,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,67.64,1.97,3132.92,5.13,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,249.24,88.63,226.31,21.43,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,181.56,77.04,2469.27,26.93,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,184.01,49.14,4648.07,10.03,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,170.4,160.14,2355.27,32.17,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,85.15,69.35,0.0,19.92,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,151.61,142.89,3307.56,26.29,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,250.34,111.79,697.66,12.08,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,138.14,47.02,160.57,12.64,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,144.22,47.01,0.0,27.5,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,73.28,50.43,68.22,27.04,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,61.32,8.32,1903.02,27.07,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,212.57,33.77,4290.38,29.53,faible
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,122.98,29.78,61.12,5.41,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,169.68,112.49,2302.43,29.26,faible
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,313.97,1125.76,190.0,21.2,faible
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,73.75,35.71,13.4,28.67,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,85.52,49.9,0.0,17.97,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,255.11,133.25,198.75,29.21,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,253.47,115.06,604.41,14.94,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,222.33,52.92,5207.17,8.39,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,185.32,51.74,5120.7,25.75,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,117.84,64.29,1342.2,16.35,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,58.3,3.76,2040.96,6.76,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,138.21,58.23,811.88,25.84,faible
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,249.99,89.68,710.91,17.61,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,155.62,84.06,3261.39,7.55,faible
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,144.67,101.7,1155.31,25.21,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,44.94,6.87,3207.86,27.12,faible
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,152.95,160.89,2210.67,29.76,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,233.25,132.58,305.76,14.29,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,157.57,170.26,2606.58,7.81,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,88.68,52.17,0.0,27.65,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,252.53,80.35,966.7,28.76,faible
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,203.75,49.93,5057.19,28.34,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,230.21,94.04,690.86,11.35,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,233.14,100.9,289.29,27.47,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,61.81,3.6,2923.45,22.29,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,141.49,55.13,299.96,16.58,faible
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,262.45,112.93,978.62,30.8,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,153.28,95.67,3519.7,6.86,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,326.88,1913.63,560.24,25.2,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,239.64,88.68,75.93,7.81,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,124.41,78.64,953.26,33.98,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,259.71,82.18,1271.35,18.38,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,239.37,111.38,607.32,33.09,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,54.27,7.41,3325.79,18.31,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,133.64,55.07,0.0,16.84,moyenne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,90.79,74.44,3.49,23.7,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,50.36,3.55,3361.86,33.47,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,338.26,2058.58,232.86,21.74,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,315.09,1328.34,307.91,31.66,faible
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,244.22,133.3,505.04,15.43,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,240.93,91.81,605.32,18.48,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,187.52,33.3,4827.27,14.55,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,233.27,84.27,372.52,27.02,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,255.16,106.05,610.04,18.56,moyenne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,72.76,53.58,36.46,21.36,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,216.82,31.71,4389.15,15.1,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,233.99,75.45,1129.02,17.87,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,141.41,97.61,655.88,5.69,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,59.54,43.87,0.0,13.98,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,244.35,102.6,1034.73,15.08,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,67.5,6.96,3455.04,32.14,faible
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,137.89,34.83,16.26,22.76,faible
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,69.73,5.69,2697.42,22.65,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,215.95,36.92,3040.92,28.53,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,66.98,5.76,3088.26,32.43,moyenne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,70.38,60.26,0.0,32.97,moyenne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,156.88,55.13,53.16,11.89,faible
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,122.83,54.19,18.98,29.14,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,51.53,3.18,2534.18,33.18,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,233.38,31.56,3815.79,24.31,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,221.15,32.33,4823.87,24.83,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,297.77,1191.83,31.79,18.08,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,144.02,46.6,906.5,6.95,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,154.65,68.99,3480.47,12.89,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,53.65,3.01,3222.52,5.16,faible
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,144.85,35.31,1080.93,10.98,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,127.2,38.46,406.49,8.94,moyenne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,313.61,1570.66,306.35,27.98,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,154.75,70.47,3870.76,31.93,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,119.28,33.44,90.87,8.29,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,305.47,1414.89,62.18,31.59,moyenne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,80.48,69.22,0.0,21.35,moyenne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,67.86,47.72,0.0,32.83,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,54.97,4.47,3630.41,9.07,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,325.37,2077.38,102.18,26.81,moyenne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,148.45,36.76,0.0,10.83,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,98.32,71.89,0.0,25.07,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,67.95,48.56,0.0,21.64,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,64.87,5.71,3961.48,8.9,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,58.65,4.89,3428.07,31.71,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,67.17,70.64,60.62,10.66,faible
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,159.68,74.59,3884.24,19.86,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,141.51,148.17,3842.67,19.1,moyenne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,101.04,75.59,0.0,20.47,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,159.97,115.07,2815.73,17.03,faible
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,110.6,77.92,383.57,31.67,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,138.43,98.35,2599.19,23.18,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,48.37,4.82,2488.85,27.58,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,251.86,134.03,0.0,20.07,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,77.13,47.41,0.0,23.96,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,66.94,78.73,108.03,9.63,moyenne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,147.23,53.26,0.0,19.71,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,234.11,119.96,753.89,25.11,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,137.03,29.95,0.0,22.79,moyenne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,298.99,1181.93,52.72,26.15,moyenne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,121.56,59.05,1060.0,20.32,faible
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,118.61,29.62,0.0,14.49,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,130.67,51.91,0.0,22.92,moyenne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,131.85,37.89,28.23,10.62,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,236.73,104.34,441.45,7.6,faible
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,338.31,988.35,390.95,31.21,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,301.89,2231.03,356.49,13.08,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,129.42,97.83,1049.55,8.29,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,150.23,93.13,253.86,22.0,moyenne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,136.88,34.23,1012.66,11.96,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,241.63,118.98,659.37,5.16,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,150.79,125.16,3041.2,23.87,faible
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,216.94,28.18,4153.78,23.43,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,125.24,55.22,611.58,8.26,moyenne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,89.31,55.73,2.59,11.67,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,74.64,77.03,0.0,15.63,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,58.54,1.79,3895.56,30.14,faible
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,71.82,4.59,1981.12,13.83,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,133.8,37.25,6.34,9.55,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,138.4,50.31,0.0,20.98,faible
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,78.35,45.23,0.0,31.56,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,47.94,4.07,2031.87,16.46,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,45.12,4.35,2166.77,9.65,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,63.42,74.54,39.65,19.71,moyenne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,97.0,75.43,0.0,13.36,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,91.21,41.58,0.0,32.07,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,55.3,5.7,3435.5,12.55,moyenne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,120.98,32.26,0.0,14.1,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,59.27,0.5,1964.01,12.14,faible
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,142.3,163.01,3209.8,5.35,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,132.07,35.43,1234.29,23.34,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,137.57,62.46,1263.75,29.71,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,115.07,46.95,611.67,10.71,moyenne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,143.36,43.42,0.0,12.09,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,142.9,53.28,0.0,19.41,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,128.37,40.46,0.0,31.57,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,64.46,2.81,3834.06,10.46,faible
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,54.83,4.59,2456.95,15.49,faible
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,92.11,77.41,0.0,5.1,faible
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,122.06,43.39,103.12,22.08,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,53.15,6.48,2849.52,27.15,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,67.1,6.65,3468.16,12.35,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,178.23,134.28,2787.03,16.5,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,231.98,125.31,386.51,30.36,faible
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,134.35,42.09,0.0,8.92,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,210.36,39.89,3158.64,19.64,moyenne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,133.48,44.71,0.0,31.09,faible
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,220.07,40.4,3862.89,12.85,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,54.94,2.86,4056.32,8.68,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,69.46,54.63,25.93,26.94,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,228.02,133.03,257.71,9.45,faible
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,92.67,59.01,45.13,14.51,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,69.76,60.69,0.0,25.13,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,331.87,1882.29,185.72,10.93,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,142.67,59.16,328.69,16.62,moyenne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,329.72,2211.64,233.09,14.97,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,247.53,138.45,79.19,10.97,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,77.14,66.29,46.46,9.47,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,189.18,34.95,3068.0,7.85,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,227.95,28.56,3491.18,7.78,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,176.68,48.32,4913.04,16.3,faible
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,58.85,55.64,0.0,32.82,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,168.49,95.54,2980.52,33.32,moyenne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,135.16,41.35,32.44,25.02,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,168.66,121.21,2641.8,23.64,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,118.61,40.85,0.0,20.8,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,52.41,5.88,2554.24,8.0,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,64.16,5.6,2173.9,26.6,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,86.3,52.93,146.55,33.97,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,157.52,117.56,3191.87,12.51,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,206.51,42.27,4260.24,16.37,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,201.14,47.65,3824.47,18.01,faible
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,330.86,2034.05,94.54,7.8,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,136.68,47.87,13.35,8.87,moyenne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,98.89,40.26,15.23,19.25,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,224.37,96.78,777.17,13.56,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,230.58,135.61,792.24,28.22,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,164.86,113.65,2527.7,25.0,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,311.46,1523.88,506.48,10.06,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,163.13,167.68,4098.2,32.83,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,196.15,53.9,4163.53,21.05,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,53.15,5.56,3038.15,24.27,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,172.84,85.11,3682.63,13.31,faible
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,74.15,6.33,3045.97,27.39,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,142.2,99.36,3311.56,9.69,faible
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,252.31,87.93,905.54,24.9,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,318.79,1565.15,33.44,14.42,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,198.39,55.94,3814.75,17.62,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,143.99,38.17,13.91,31.15,faible
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,129.76,53.39,1368.46,28.45,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,151.66,92.97,3224.57,11.53,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,82.15,63.94,0.0,26.64,moyenne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,126.44,48.33,0.0,20.39,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,178.49,39.93,4576.62,18.69,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,179.18,52.96,3342.45,14.25,faible
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,237.09,88.85,996.1,18.58,moyenne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,327.93,1409.46,454.56,14.87,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,60.97,80.62,37.91,8.77,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,256.35,87.97,678.24,10.88,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,48.86,8.66,2589.0,6.41,moyenne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,321.63,1070.42,681.32,17.85,moyenne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,129.48,34.92,0.0,23.2,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,51.82,0.5,2399.43,22.01,moyenne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,151.08,32.56,64.43,21.02,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,205.96,51.86,4670.03,33.74,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,156.61,145.11,2885.4,6.15,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,246.66,141.82,1028.65,6.75,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,124.01,98.47,72.64,15.64,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,166.84,54.13,4735.45,20.41,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,93.94,73.16,151.56,25.51,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,331.81,1008.84,525.26,32.6,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,224.33,87.48,203.17,29.95,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,59.94,5.68,3835.8,13.36,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,131.57,59.58,151.19,15.82,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,65.89,39.54,0.0,11.55,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,218.6,88.45,394.66,30.6,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,146.68,89.34,3419.14,31.96,faible
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,225.04,82.31,446.86,7.08,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,136.49,42.6,0.0,19.43,faible
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,56.51,8.16,3647.03,20.39,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,226.1,35.56,4064.43,26.64,moyenne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,135.68,30.45,0.0,28.08,moyenne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,140.41,43.8,50.2,26.95,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,129.13,79.74,441.24,18.89,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,248.62,74.81,1046.78,24.14,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,77.07,4.03,2295.89,10.21,moyenne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,92.14,64.22,123.71,20.8,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,196.39,51.84,5158.23,33.78,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,65.83,7.83,2116.07,16.72,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,186.65,55.43,3929.01,17.34,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,137.29,61.77,930.0,13.8,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,88.64,65.26,126.57,6.92,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,145.34,100.15,3097.73,12.84,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,54.69,4.63,2761.82,21.04,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,159.08,172.23,3695.96,32.72,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,237.43,80.14,816.62,33.85,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,142.86,90.28,658.03,8.49,faible
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,199.65,34.89,4768.77,21.12,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,326.24,922.39,103.33,30.87,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,136.42,100.24,2602.42,16.17,moyenne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,74.28,42.49,0.0,25.95,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,146.98,62.64,1359.88,20.41,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,161.62,149.79,3790.24,7.93,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,169.37,166.3,4102.68,24.55,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,113.21,85.32,767.56,5.7,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,260.35,76.0,569.22,12.55,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,226.18,82.82,776.59,31.73,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,174.41,38.5,3292.46,19.26,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,57.52,3.7,2017.31,5.84,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,154.83,116.55,2865.07,32.25,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,114.6,40.6,802.1,21.06,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,248.87,106.45,179.01,7.79,moyenne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,85.01,72.47,7.82,10.99,moyenne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,66.64,67.92,0.0,17.74,faible
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,109.34,33.8,20.62,17.44,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,147.51,121.14,2640.45,16.67,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,50.23,4.69,3409.81,8.12,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,197.03,52.73,4822.89,18.98,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,184.39,37.7,3962.72,30.03,faible
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,175.76,51.44,4537.12,29.16,moyenne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,67.67,51.48,181.62,19.12,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,122.93,30.47,4.11,8.61,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,140.83,47.7,0.0,18.42,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,45.77,8.12,2677.63,14.5,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,247.27,83.98,668.99,31.07,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,157.69,93.35,4282.87,11.24,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,160.19,40.03,4353.27,18.04,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,213.12,36.41,5300.16,18.79,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,204.74,49.69,3963.6,24.92,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,183.54,26.91,3047.03,14.03,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,230.91,98.82,693.46,30.76,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,149.14,102.84,3656.85,31.66,faible
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,170.99,50.1,4104.98,33.76,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,124.8,52.64,0.0,16.52,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,328.39,1121.64,418.27,31.51,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,69.01,10.77,3784.06,18.73,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,265.08,122.78,735.53,19.76,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,179.66,144.99,3743.3,9.18,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,176.21,126.33,3196.43,32.42,moyenne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,316.44,1142.92,270.38,32.06,moyenne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,130.29,59.23,760.04,27.3,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,237.72,77.34,846.65,28.64,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,58.24,1.11,2698.89,27.4,moyenne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,127.23,46.22,0.0,16.52,faible
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,259.61,95.91,350.75,32.43,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,171.05,146.19,3768.54,25.83,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,136.85,73.19,547.71,19.33,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,323.78,1462.02,301.52,20.58,moyenne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,296.12,1785.09,312.78,18.77,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,327.78,1326.21,280.57,30.02,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,300.63,1953.59,104.32,22.44,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,141.1,54.8,83.89,8.69,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,143.09,79.56,956.15,5.07,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,68.74,4.8,3499.2,15.56,moyenne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,130.05,53.85,1552.17,24.69,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,222.32,107.58,413.63,8.71,moyenne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,327.92,2003.31,481.74,10.31,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,239.0,107.68,1176.6,25.47,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,49.71,2.57,3082.24,32.8,moyenne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,126.93,40.53,177.73,23.18,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,54.73,4.44,1931.83,28.94,moyenne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,121.88,84.09,109.96,7.53,moyenne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,123.9,99.67,425.51,6.58,faible
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,126.95,35.36,0.0,12.22,faible
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,328.77,2292.08,326.63,21.07,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,127.18,29.55,0.0,25.67,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,142.38,145.57,2393.4,27.16,moyenne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,331.13,1669.49,417.56,9.89,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,228.24,110.62,703.55,22.97,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,58.11,8.05,3428.22,8.59,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,178.84,39.39,5252.62,5.8,faible
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,77.22,37.5,156.09,28.06,moyenne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,118.05,70.05,807.5,7.3,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,70.25,76.82,0.0,13.22,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,246.84,115.88,757.9,31.27,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,51.68,8.0,2799.21,23.55,moyenne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,141.14,30.49,0.0,34.0,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,71.87,65.44,45.35,9.1,moyenne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,61.55,66.36,0.0,9.45,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,138.62,60.51,1013.11,29.6,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,113.53,42.87,997.02,33.0,moyenne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,331.91,1896.58,392.34,11.58,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,255.97,79.93,622.02,16.81,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,110.75,39.14,546.37,16.67,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,164.95,51.38,3800.29,8.57,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,138.64,41.53,20.35,25.16,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,144.79,34.05,445.86,9.84,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,169.73,38.84,4057.76,8.16,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,111.98,34.59,0.0,6.35,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,138.9,67.26,1139.18,19.86,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,227.9,101.26,696.64,6.12,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,302.72,1802.85,569.5,22.43,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,242.83,137.31,415.05,10.67,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,326.36,917.04,630.04,10.33,moyenne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,302.56,2045.95,389.23,10.47,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,195.7,46.45,3852.06,20.93,faible
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,58.89,2.93,2826.79,6.31,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,240.52,117.05,93.86,18.97,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,317.01,1791.4,278.55,31.62,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,59.44,8.1,3368.99,17.16,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,66.39,62.11,0.0,19.96,moyenne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,64.07,60.95,0.0,9.01,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,335.58,2046.89,0.0,27.39,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,123.09,49.83,0.0,23.51,moyenne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,147.41,44.52,462.14,16.23,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,59.8,3.54,3988.17,32.64,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,69.27,1.62,2066.99,26.61,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,249.6,72.32,1102.64,9.99,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,61.21,63.99,0.0,7.08,moyenne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,123.96,82.28,1486.86,13.03,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,226.33,93.22,910.6,27.64,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,225.45,29.74,3598.72,22.02,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,148.46,33.17,617.1,33.41,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,64.36,2.2,2256.78,29.75,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,231.9,40.62,3880.86,32.8,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,55.69,4.39,3585.55,23.63,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,70.37,49.58,29.48,17.09,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,330.12,1741.84,289.06,23.87,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,144.75,154.81,3846.54,31.95,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,139.78,127.56,3364.94,16.72,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,308.37,1234.59,80.2,26.59,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,155.6,35.58,49.38,13.32,faible
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,297.2,965.71,464.74,30.98,moyenne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,339.16,902.18,215.09,31.46,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,308.52,1142.38,73.19,9.53,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,159.53,91.5,2272.12,12.67,faible
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,316.55,1902.19,460.0,27.84,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,143.68,178.68,2718.09,21.1,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,78.87,73.98,0.0,5.95,faible
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,243.92,111.78,358.23,14.13,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,166.26,44.41,4444.6,29.5,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,320.14,1071.79,429.62,29.28,faible
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,126.34,39.99,993.01,28.25,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,119.34,51.45,89.96,16.06,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,161.66,42.8,3285.66,12.1,faible
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,124.56,32.06,7.68,11.08,faible
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,239.79,82.8,547.32,30.38,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,226.59,125.23,72.44,10.09,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,219.18,56.19,3771.64,13.59,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,128.95,73.69,1157.3,25.04,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,306.8,1981.98,522.14,8.02,moyenne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,316.87,1785.51,7.12,9.25,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,145.47,76.45,2252.4,21.2,moyenne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,80.52,48.25,155.79,25.79,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,173.51,117.35,2957.01,12.0,faible
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,243.98,100.03,977.77,26.36,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,258.21,133.04,763.97,33.81,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,174.79,29.74,3601.48,5.29,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,296.23,1551.66,494.25,28.63,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,237.4,78.44,504.71,6.01,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,151.41,70.95,1210.83,25.75,faible
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,233.43,86.24,1109.91,29.19,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,324.93,1471.14,164.31,18.76,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,151.66,155.09,3520.26,20.14,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,147.55,168.49,3615.89,17.14,moyenne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,74.9,46.47,49.15,15.3,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,228.03,95.77,372.16,23.06,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,225.64,108.85,534.97,22.2,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,226.0,103.34,712.34,33.51,moyenne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,84.63,51.69,10.87,11.53,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,150.48,94.98,4153.59,25.09,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,65.39,58.29,142.29,24.66,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,180.24,58.91,4331.87,12.66,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,190.75,40.03,3946.83,29.24,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,129.4,67.06,443.89,19.5,faible
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,249.25,73.82,197.31,29.96,moyenne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,317.13,1361.56,327.61,30.93,moyenne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,98.28,80.58,51.52,6.08,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,194.11,37.08,3713.74,31.64,faible
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,207.93,40.21,3135.76,23.59,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,148.3,44.31,208.36,31.5,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,230.54,80.01,950.36,27.46,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,311.36,1169.02,280.71,24.08,moyenne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,122.68,88.11,987.61,18.89,moyenne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,120.24,40.89,167.28,32.48,moyenne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,131.85,42.26,327.57,15.93,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,156.04,53.12,612.48,29.69,moyenne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,336.51,1236.37,204.71,12.13,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,210.6,32.69,3010.74,18.69,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,194.48,37.55,3480.3,7.28,moyenne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,68.58,56.1,0.0,20.71,faible
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,114.3,97.1,1238.54,12.77,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,141.59,50.05,16.63,12.77,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,140.25,160.72,3935.55,13.0,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,182.15,31.55,5200.91,30.54,moyenne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,78.16,49.33,74.01,19.0,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,130.87,41.89,0.0,12.65,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,69.44,1.06,2337.68,27.18,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,320.66,1955.59,214.76,25.79,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,256.01,106.71,1163.94,28.16,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,203.03,51.22,5412.8,22.31,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,312.79,2126.62,344.25,8.53,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,320.66,2244.6,220.24,19.19,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,71.19,73.68,59.48,32.5,faible
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,150.28,35.66,1361.38,26.52,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,179.67,55.68,3068.77,7.42,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,234.49,111.63,743.31,26.73,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,163.01,48.84,4437.87,6.99,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,322.77,1804.93,126.32,8.21,faible
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,154.53,75.84,3746.19,19.98,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,330.97,1467.95,428.33,10.34,faible
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,86.23,53.49,92.78,7.48,moyenne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,142.03,82.64,192.6,19.72,moyenne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,332.28,1812.59,580.68,12.99,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,153.23,134.61,4198.85,33.26,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,150.47,114.58,3707.8,24.57,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,193.76,51.55,5157.28,25.39,faible
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,311.02,2190.37,484.95,13.01,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,294.07,2052.78,130.02,19.79,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,169.3,74.31,2829.03,23.8,moyenne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,96.37,42.26,0.72,31.8,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,87.93,53.97,39.88,13.75,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,243.07,103.76,171.42,17.79,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,132.14,30.16,357.98,11.27,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,189.4,31.21,3968.89,8.32,moyenne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,71.05,43.73,21.71,13.11,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,185.5,78.04,2307.84,14.53,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,134.0,39.02,96.28,13.98,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,315.12,2285.43,9.45,23.82,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,119.17,85.93,162.99,17.26,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,138.61,39.39,1009.16,15.85,moyenne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,112.21,65.94,1456.53,25.83,moyenne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,316.22,1204.33,409.85,6.27,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,177.4,33.16,4080.11,31.38,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,304.92,1000.19,155.81,32.92,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,181.07,29.32,3554.07,15.23,faible
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,127.13,44.35,129.75,12.87,moyenne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,127.3,35.51,236.79,26.71,moyenne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,127.2,32.51,144.32,7.41,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,61.43,3.97,2187.96,31.36,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,172.35,71.62,4272.26,33.15,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,298.48,1836.32,385.77,21.32,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,249.84,97.33,662.6,18.39,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,126.51,47.31,0.0,30.18,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,55.27,5.02,2118.97,6.51,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,148.3,44.13,0.0,18.78,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,237.85,139.27,998.86,23.39,moyenne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,304.52,2239.38,587.44,10.79,faible
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,146.53,44.68,1063.57,14.33,faible
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,152.23,54.87,197.29,29.85,faible
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,115.78,95.96,1241.02,21.65,moyenne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,120.22,91.7,755.29,6.38,faible
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,214.74,48.7,4159.9,26.66,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,43.22,6.34,2949.64,5.14,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,119.61,34.27,0.0,24.82,faible
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,174.59,79.74,3294.67,6.23,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,196.42,43.95,5332.23,15.91,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,128.89,34.19,24.59,11.41,moyenne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,336.46,926.24,575.86,8.72,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,95.82,74.45,0.0,19.93,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,126.6,32.95,79.48,31.26,moyenne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,138.77,69.58,574.58,19.3,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,226.66,128.24,1191.44,29.6,moyenne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,58.53,78.15,50.86,24.66,faible
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,217.0,34.11,4647.94,7.32,faible
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,59.88,56.2,161.73,9.25,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,176.92,46.46,4449.61,29.35,faible
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,196.28,41.9,4634.13,26.97,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,239.02,87.77,792.04,21.78,faible
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,53.26,7.14,2018.61,11.58,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,197.99,27.31,4077.51,5.91,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,295.93,974.05,0.0,30.95,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,133.98,81.84,1009.84,30.82,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,329.69,1645.62,320.9,24.01,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,163.74,34.56,3237.76,14.0,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,147.29,39.95,27.59,12.45,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,161.63,28.37,4465.7,21.08,moyenne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,317.67,2273.03,94.24,21.54,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,58.9,0.5,1797.38,26.03,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,202.56,37.32,5174.12,6.18,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,174.46,43.44,3334.76,9.8,moyenne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,141.83,38.91,6.52,17.97,moyenne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,88.5,53.07,4.25,23.23,moyenne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,138.7,52.28,0.0,28.2,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,68.98,7.16,3446.42,8.44,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,59.84,3.75,3860.92,13.26,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,231.39,30.86,4970.07,13.09,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,250.82,126.76,87.47,33.83,faible
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,253.13,136.1,926.37,18.94,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,56.64,6.03,3890.01,31.82,faible
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,121.15,63.55,874.04,8.58,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,254.09,135.98,343.7,12.62,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,144.64,38.21,0.0,7.0,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,192.3,48.77,4497.03,6.08,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,86.03,62.67,127.64,12.83,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,145.2,79.08,4168.42,10.75,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,62.61,60.08,248.51,31.75,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,306.12,2038.14,288.73,12.85,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,95.67,47.64,0.0,7.79,moyenne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,153.47,46.22,0.0,26.74,faible
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,123.63,39.38,89.53,23.91,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,260.21,84.84,333.59,24.24,faible
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,57.29,2.55,2936.11,7.09,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,68.91,46.86,58.86,28.15,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,300.44,1574.8,85.51,10.6,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,236.53,96.42,528.3,7.66,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,142.18,73.5,1452.08,32.55,faible
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,121.66,45.32,118.73,26.78,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,203.69,54.02,4012.82,20.89,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,72.59,2.18,1826.12,32.79,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,228.99,43.8,4143.76,31.05,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,47.75,4.98,2752.35,21.94,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,244.17,78.92,342.59,21.73,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,66.36,5.26,2513.11,10.87,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,141.28,34.38,4.6,19.31,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,84.19,80.09,0.0,10.28,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,221.55,85.78,571.36,30.95,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,212.36,37.36,5221.27,22.47,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,230.04,136.32,576.64,20.42,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,201.45,48.45,4309.23,9.67,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,56.93,0.5,1985.86,31.91,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,162.29,107.68,2438.36,27.76,faible
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,177.14,38.7,4935.16,16.39,faible
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,317.76,1886.26,39.79,19.9,faible
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,193.03,54.97,3280.89,33.85,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,164.76,144.52,2719.69,5.25,faible
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,331.69,921.1,20.5,25.19,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,145.22,98.29,2982.72,15.96,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,202.72,40.96,4774.36,28.96,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,82.6,69.28,134.43,26.95,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,100.52,63.76,199.69,9.96,moyenne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,113.93,71.21,935.44,14.7,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,216.98,40.31,4809.61,28.3,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,124.61,70.48,663.96,32.59,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,159.26,123.66,2738.24,9.4,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,227.71,126.24,344.61,15.77,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,226.79,123.88,1045.11,22.32,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,133.25,47.11,26.73,27.5,faible
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,191.53,33.59,5196.27,33.03,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,92.43,74.93,85.71,15.02,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,337.1,2063.41,566.49,20.93,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,83.75,70.09,0.0,17.3,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,188.78,47.5,3978.18,28.73,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,185.86,47.83,4958.15,15.21,faible
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,48.43,6.59,3715.22,11.15,moyenne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,126.21,50.76,0.0,6.08,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,93.91,70.94,0.0,5.02,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,49.15,6.04,3306.68,17.86,moyenne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,142.63,93.63,813.04,21.31,faible
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,125.94,85.19,1142.81,29.49,moyenne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,129.94,46.48,0.0,19.59,faible
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,65.43,3.78,3194.3,29.73,moyenne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,230.5,137.41,127.47,16.58,faible
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,56.57,5.06,1887.86,12.23,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,221.09,25.23,4249.38,7.16,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,136.41,38.37,55.15,26.11,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,86.96,62.35,50.19,27.69,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,64.9,67.1,19.31,15.03,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,77.44,46.09,0.0,28.12,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,56.37,5.87,1859.79,30.02,faible
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,148.72,148.75,2431.85,10.07,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,140.3,48.16,33.94,25.41,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,149.38,144.81,4149.85,29.24,faible
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,160.87,40.84,4463.15,6.03,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,160.01,87.28,4229.65,31.96,faible
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,58.17,2.71,2664.52,13.87,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,162.99,97.94,3053.31,10.01,moyenne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,313.36,1817.97,644.6,26.21,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,83.0,56.12,0.0,25.92,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,163.13,173.52,2617.15,22.04,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,226.5,105.81,1098.86,17.32,moyenne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,138.21,92.08,1014.91,23.32,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,116.69,50.7,69.99,9.64,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,310.83,1426.18,261.76,7.97,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,178.1,31.59,3277.18,29.7,moyenne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,142.65,44.7,0.0,16.48,moyenne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,136.27,68.5,1458.54,21.64,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,126.68,47.67,26.54,16.79,bonne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,207.4,50.23,4102.98,15.99,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,131.46,131.43,3158.26,9.45,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,139.43,51.28,0.0,10.53,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,137.73,43.81,114.72,28.46,bonne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,141.5,40.85,65.5,19.31,moyenne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,317.93,899.3,391.95,22.4,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,245.09,95.5,191.21,13.94,faible
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,196.89,31.79,5269.19,22.33,moyenne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,333.49,1422.7,16.17,10.3,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,82.79,40.33,62.04,23.64,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,317.15,1329.38,103.02,19.7,faible
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,142.41,40.8,0.0,16.17,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,52.66,6.26,2768.03,23.4,moyenne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,70.08,66.24,0.0,18.64,moyenne
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,123.79,52.05,62.69,26.0,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,133.72,86.76,699.21,9.9,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,175.48,42.68,5487.28,31.46,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,162.58,125.13,2975.87,27.7,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,55.19,2.71,2125.74,17.62,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,147.35,167.46,3363.17,23.54,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,84.29,71.47,165.56,26.88,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,239.66,97.4,74.99,25.97,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,152.06,78.59,3742.53,24.01,faible
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,250.32,99.11,600.88,11.99,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,88.16,57.81,0.0,12.85,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,159.32,42.97,3422.42,26.81,faible
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,81.42,52.35,0.0,9.57,faible
+Vaquita,Golfe de Californie,mer côtière,diurne,gris avec taches,critique,125.23,41.64,26.43,32.66,faible
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,162.2,87.57,4120.11,26.87,moyenne
+Léopard des neiges,Asie centrale,montagne rocheuse,crépusculaire,rosettes grises,vulnérable,164.26,33.14,4391.01,10.67,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,149.46,111.68,3807.03,16.66,faible
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,333.99,1831.32,109.16,6.23,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,246.92,92.21,367.41,31.4,moyenne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,329.03,1810.7,430.07,17.08,moyenne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,118.48,99.51,665.58,19.79,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,70.21,9.26,2093.48,25.1,moyenne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,62.73,42.58,134.36,7.31,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,57.35,5.83,2814.46,33.85,bonne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,77.73,51.49,0.0,9.44,moyenne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,146.25,158.25,2240.77,18.55,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,237.27,96.56,25.76,32.41,faible
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,72.39,71.76,46.61,23.29,bonne
+Tigre de Sumatra,Sumatra,forêt tropicale,nocturne,rayures noires,critique,239.76,110.24,1216.96,26.51,moyenne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,319.24,1122.62,168.93,11.83,faible
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,50.74,9.48,3692.62,14.2,bonne
+Rhinocéros de Java,Java,forêt humide,crépusculaire,peau grise,critique,321.04,1405.89,57.27,28.18,faible
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,65.18,3.91,2856.3,8.04,moyenne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,64.79,4.28,3217.95,27.71,bonne
+Gorille des montagnes,Afrique centrale,forêt montagneuse,diurne,pelage sombre,en danger,164.32,160.83,4206.28,33.06,bonne
+Orang-outan de Bornéo,Bornéo,forêt tropicale,diurne,pelage orangé,critique,153.3,71.93,686.56,20.95,moyenne
+Tortue imbriquée,océans tropicaux,récif corallien,diurne,carapace écailleuse,critique,97.49,67.66,0.0,27.2,bonne
+Panda roux,Himalaya,forêt tempérée,crépusculaire,roux et blanc,en danger,66.23,7.5,3725.67,22.71,bonne
