@@ -1,4 +1,4 @@
-# Reconnaissance automatique des espèces menacées — AI for Good
+# Reconnaissance automatique des espèces menacées - AI for Good
 
 Projet éducatif de machine learning utilisant des **données imaginées** pour reconnaître automatiquement des espèces menacées à partir de caractéristiques observables.
 
